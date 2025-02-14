@@ -1,9 +1,9 @@
 
 # Hi, I'm James! 👋
-
-
 ## 🚀 About Me
 I'm a passionate and driven Bachelor of ICT student currently in my final year of study. I was first introduced to programming in intermediate school and have been developing my knowledge and skills ever since. 
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ## 🛠 Skills
 * Proficient building Fullstack Web Applications using JS, using either PHP or React/NodeJS
