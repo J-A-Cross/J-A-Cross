@@ -11,7 +11,7 @@ I'm a passionate and driven Bachelor of ICT student currently in my final year o
 * Desktop Application using both C# and Java. 
 
 
-## Other Common Github Profile Sections
+## More Details
 👩‍💻 I'm currently working on... Sparse - An online financial portfolio dashboard and projection tool using React, NodeJS, and Express. Hosted using AWS ec2
 
 🧠 I'm currently learning... Auth2 Authentication and back end security. 
